@@ -19,4 +19,6 @@ public class BookDto {
     private String pressName;
 
 
+    public BookDto(BookIdDto bookIdDto) {
+    }
 }
